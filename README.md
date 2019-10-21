@@ -1,5 +1,5 @@
 # tinspect
-Parquet/csv CLI inspection tool
+Parquet/csv table CLI inspection and conversion tool.
 
 ## Requirements
 
