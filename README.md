@@ -1,6 +1,19 @@
 # tinspect
 Parquet/csv CLI inspection tool
 
+## Requirements
+
+```
+argparse
+math
+numpy
+os
+pathlib
+
+Additionally, pyarrow is required for opening and saving .parquet files.
+```
+
+## Arguments
 ```
 Table inspection tool. Shows information about python loading of .csv and
 .parquet files.
